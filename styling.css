@@ -1,0 +1,71 @@
+
+     table {
+                border: 3px solid brown;
+           }
+         td,th {
+                border: 1px dashed black;
+                padding: 6px;
+            }
+         .mytable tr:nth-child(2n+1)
+            {
+                background-color: light pink;
+            }
+ 
+
+body {
+       background-color: lightgrey;
+       color: black;
+       font-family: serif;
+       font-style: italic;
+       margin: 10px;
+     }
+h1 {
+  font-size: 60px;
+  color: red;
+  font-style: normal;
+  text-align: center;
+}
+
+div :visited{
+	color: green;
+}
+div :hover {
+	color: blue;
+}
+div :active {
+	color: red;
+}
+ol {
+	list-style-type: square;
+	color: blue;
+}
+ul  {
+	color: purple;
+}
+img {
+	border: 10px solid brown;
+	margin: 15px ;
+	float : left ;
+}
+h2 {
+	color: blue;
+	font-style: italic;
+	position: static;
+	text-align: center;
+}
+table {
+	padding: 20px;
+	margin: 10px;
+}
+th {
+	color: red;
+	font-style: initial;
+}
+h3 {
+	color: red;
+	font-style: initial;
+}
+h1.hidden {
+	display: none;
+}
+
