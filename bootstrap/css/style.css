@@ -1,0 +1,18 @@
+* {
+   padding-right: 8px;
+   padding-left: 8px;
+   padding-top: 4px;
+
+}
+h1{
+	color: #483D8B;
+	font-family : Georgia, serif;
+}
+.form-group{
+	color: 	firebrick;
+}
+ span {
+    background: #def3ca;
+    padding: 3px;
+    float: left;
+  }
