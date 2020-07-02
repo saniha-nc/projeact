@@ -1,0 +1,33 @@
+* {
+	padding: 4px;
+}
+#p1, #p2, #p3{
+	color: navy;
+}
+.doubcl1 {
+	color: green;
+}
+.doubcl2{
+	text-align: center;
+}
+.pr {
+	background-color: lightseagreen;
+}
+h2 {
+	color: darkmagenta;
+	font-variant:  inherit;
+}
+.tog1{
+	background-color: thistle;
+}
+body, input{
+	font-family: arial;
+}
+#fade1, #fadeTo {
+	background-color: powderblue;
+	width: 110px;
+	height: 60px;
+	padding: 5px;
+	border: 1px solid black;	
+}
+
